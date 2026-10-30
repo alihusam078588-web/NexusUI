@@ -1,7 +1,7 @@
 -- NEXUS UI 1.0.0 | Public ModuleScript entry point.
 -- Designed for legitimate Roblox Studio experiences and supported APIs.
-local Window = require(script.Core.Window)
-local ThemeManager = require(script.Themes.ThemeManager)
+local Window = require(script.Parent.Core.Window)
+local ThemeManager = require(script.Parent.Themes.ThemeManager)
 
 local Nexus = { Version = "1.0.0", ThemeManager = ThemeManager }
 

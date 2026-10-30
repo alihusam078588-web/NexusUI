@@ -1,5 +1,5 @@
 local ThemeManager = {}
-local themes = { ["NEXUS Dark"] = require(script.NEXUSDark), Adaptive = require(script.Adaptive) }
+local themes = { ["NEXUS Dark"] = require(script.Parent.NEXUSDark), Adaptive = require(script.Parent.Adaptive) }
 
 function ThemeManager:Get(name)
     local theme = themes[name] or themes["NEXUS Dark"]
