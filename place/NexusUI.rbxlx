@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4">
+  <Meta name="ExplicitAutoJoints">true</Meta>
+  <External>null</External>
+  <Item class="Workspace" referent="RBX0"><Properties><string name="Name">Workspace</string></Properties></Item>
+  <Item class="ReplicatedStorage" referent="RBX1"><Properties><string name="Name">ReplicatedStorage</string></Properties></Item>
+</roblox>

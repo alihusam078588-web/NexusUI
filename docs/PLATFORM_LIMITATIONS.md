@@ -1,0 +1,3 @@
+# Platform limitations
+
+NEXUS UI is designed for supported Roblox Studio APIs. It cannot circumvent Roblox permissions, exploit protection, asset ownership, moderation, or secure server authority. Client UI should never be used to validate purchases, permissions, or gameplay outcomes. Integrations such as analytics, hosted media, or remote configuration are optional and require the experience owner to provide an approved, secure implementation.
